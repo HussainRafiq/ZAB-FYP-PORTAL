@@ -34,7 +34,7 @@ Backend Setup (Node.js):
 5. Start the Node.js server:
    npm start
 
-The backend API should now be running at http://localhost:3000.
+The backend API should now be running at http://localhost:5555.
 
 Frontend Setup (Flutter):
 
